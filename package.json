@@ -2,7 +2,7 @@
   "name": "countries",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Kelel1/worldCountries",
+  "homepage": "https://github.io/Kelel1/worldCountries",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
